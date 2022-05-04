@@ -1,0 +1,9 @@
+Tipos de dados:
+
+Inteiro: 10; 30; -52; 101
+
+Real: 53,2; -20,7; 3,141516; 13,0
+
+Caractere/String: "a"; "natureza"; "13"; "@geagaefe"
+
+Lógico: verdadeiro ou falso

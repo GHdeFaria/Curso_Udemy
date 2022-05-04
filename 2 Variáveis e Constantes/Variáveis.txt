@@ -1,0 +1,37 @@
+Variáveis são dados alocados na memória RAM que podem ser alterados conforme necessidade ao longo do algorítmo.
+Constantes são variáveis que permanecem com dado inalterável ao longo do algorítmo.
+
+
+VARIÁVEIS:
+
+1. Todas as Variáveis/Constantes tem um nome/identificação, toda variável diferente, necessariamente terá uma identificação também diferente.
+
+2. Toda variável só pode ter um tipo de dado, nunca juntando dois ou mais. Ou seja, apenas um, sendo eles real, inteiro, string ou lógico.
+
+3. Pode ter o valor mudado.
+
+4. Todos os valores, por serem guardados na memória RAM, são temporários.
+
+
+CONSTANTES: 
+
+1. Todas as Variáveis/Constantes tem um nome/identificação, toda variável diferente, necessariamente terá uma identificação também diferente.
+
+2. Toda constante só pode ter um tipo de dado, nunca juntando dois ou mais. Ou seja, apenas um, sendo eles real, inteiro, string ou lógico.
+
+3. O valor não pode ser alterado.
+
+
+DECLARAÇÃO DE VARIÁVEIS/CONSTANTES:
+
+nome/identificação: tipo_de_dado
+
+1. primeiro caractere é sempre uma letra
+
+2. não se pode usar barra de espaço entre palavras
+
+3. só pode conter letras, números e o símbolo "_"
+
+-------------------------
+
+Quando se utiliza "//" é considerado um comentário no corpo do algorítmo, sendo assim a linha será ignorada ao rodar o algorítmo.

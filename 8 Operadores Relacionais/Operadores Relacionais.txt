@@ -1,0 +1,1 @@
+Relacionam variáveis ou expressões, comparando os valores das variáveis/expressões e gerando SEMPRE valores LÓGICOS (falso ou verdadeiro)
